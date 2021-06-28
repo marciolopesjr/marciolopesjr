@@ -27,8 +27,6 @@
 
 ### If by any means you need to contact me. here are some of the ways this is possible.
 
-## Contact
-
 <p align="center">
     <a href="https://github.com/marciolopesjr">
         <img  src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white&link=https://github.com/marciolopesjr">
