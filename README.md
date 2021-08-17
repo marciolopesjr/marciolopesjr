@@ -40,4 +40,4 @@
         <img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white&link=https://www.facebook.com/aeroporto.64">
 </p>
     
-    ![Visitor Count](https://profile-counter.glitch.me/{marciolopesjr}/count.svg)
+    [Visitor Count](https://profile-counter.glitch.me/{marciolopesjr}/count.svg)
