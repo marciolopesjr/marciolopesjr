@@ -1,7 +1,7 @@
 
 <h1> Márcio Lopes </h1>
 
-### Hello there! 👋 I'm just a programmer that likes to do things on computers. You will find various languages and differents things here. You are welcome, come whenever you want.
+### Hello there! 👋 I'm just a programmer/designer that likes to do things on computers. You will find various languages and differents things here. You are welcome, come whenever you want.
 
 
 ### Some of my skills
